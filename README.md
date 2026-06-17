@@ -38,6 +38,13 @@ The game features multiple weapon types, AI enemies, pickups, projectile combat,
 
 ## Screenshots
 
+![Gameplay](gameplay1.png)
+
+![Sniper Zoom](sniper_zoom.png)
+
+![Turret Combat](turret_combat.png)
+
+![Win Screen](win_screen.png)
 
 
 ## Author
